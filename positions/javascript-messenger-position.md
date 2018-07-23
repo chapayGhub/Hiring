@@ -1,6 +1,6 @@
 # Synesis sport: Frontend developer
 
-[Послать резюме](mailto:jobs+js.chatEG@synesis.ru?subject=Мне интересна Ваша вакансия: JS Frontend разработчик )
+[Послать резюме](mailto:jobs+js.chatEG@synesis.ru?subject=Мне%20интересна%20Ваша%20вакансия:%20JS%20Frontend%20разработчик)
 
 
 ```js
