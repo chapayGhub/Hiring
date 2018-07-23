@@ -1,4 +1,4 @@
-# Synesis sport: Senior Frontend developer
+# Synesis sport: Senior Frontend developer (Event Management System 💯🔝💋🕸💣🌶👍)
 
 
 [Послать резюме](mailto:jobs+js.ems@synesis.ru?subject=Мне%20интересна%20Ваша%20вакансия:%20Senior%20Frontend%20разработчик)
