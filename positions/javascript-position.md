@@ -1,7 +1,7 @@
 # Synesis sport: Senior Frontend developer
 
 
-[Послать резюме] (mailto:jobs+js.ems@synesis.ru?subject=Мне интересна Ваша вакансия: Senior Frontend разработчик)
+[Послать резюме](mailto:jobs+js.ems@synesis.ru?subject=Мне интересна Ваша вакансия: Senior Frontend разработчик)
 
 
 ```typescript

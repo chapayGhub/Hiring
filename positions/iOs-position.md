@@ -1,7 +1,7 @@
 # Synesis sport: iOs developer
 
 
-[Послать резюме] (mailto:jobs+ios@synesis.ru?subject=Мне интересна Ваша вакансия: iOs разработчик)
+[Послать резюме](mailto:jobs+ios@synesis.ru?subject=Мне интересна Ваша вакансия: iOs разработчик)
 
 
 ```swift
